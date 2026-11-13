@@ -1,6 +1,6 @@
-# Site for exploring Game of Thrones lore
+# Site for exploring The Book
 
-Live :  	[https://got-chronicles.vercel.app/](https://got-chronicles.vercel.app/)
+Live :  	[https://incwadzi.vercel.app/](https://incwadzi.vercel.app/)
 
 ![The lily pond](docs/screenshots/1.png)       
        
