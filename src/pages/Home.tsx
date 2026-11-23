@@ -236,11 +236,11 @@ export default function Home() {
         <div className="relative z-10 max-w-6xl mx-auto px-5 md:px-8 w-full pt-32 pb-16 md:pb-24">
           <Reveal>
             <p className="font-display text-[11px] md:text-xs tracking-[0.5em] uppercase text-[var(--gold-deep)] mb-5">
-              An Illuminated Archive of Ice &amp; Fire
+              An Archive of Incwadzi &amp; Legcwele
             </p>
             <h1 className="font-display uppercase text-[var(--ink)] leading-[0.95]">
               <span className="block text-lg md:text-2xl tracking-[0.35em] font-medium">The Complete</span>
-              <span className="block text-5xl md:text-8xl font-bold tracking-[0.04em]">Chronicle</span>
+              <span className="block text-5xl md:text-8xl font-bold tracking-[0.04em]">Ncwadzi</span>
               <span className="block text-2xl md:text-4xl tracking-[0.22em] font-medium mt-2">of the Seven Kingdoms</span>
             </h1>
             <Ornament className="max-w-xs mt-6 mb-6" glyph="❧" />
